@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2025-02-19T15:11:10-08:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2025-02-19-first-post/",
+    "title": "First-post",
+    "description": "First post. I have no idea what is going on.",
+    "author": [
+      {
+        "name": "Aden Bhagwat",
+        "url": {}
+      }
+    ],
+    "date": "2025-02-19",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2025-02-19T15:38:15-08:00",
+    "input_file": "first-post.knit.md"
   }
 ]

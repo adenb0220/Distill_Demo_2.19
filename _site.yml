@@ -3,6 +3,7 @@ title: "Distill_Demo_2.19"
 description: |
   Distill_Demo_2.19
 output_dir: "docs"
+base_url: https://adenb0220.github.io/Distill_Demo_2.19/
 navbar:
   right:
     - text: "Home"

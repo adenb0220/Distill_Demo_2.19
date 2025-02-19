@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Distill_Demo_2.19</title>
+    <link>https://adenb0220.github.io/Distill_Demo_2.19/</link>
+    <atom:link href="https://adenb0220.github.io/Distill_Demo_2.19/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Distill_Demo_2.19
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to Distill_Demo_2.19</title>
+      <dc:creator>Aden Bhagwat</dc:creator>
+      <link>https://adenb0220.github.io/Distill_Demo_2.19/posts/welcome</link>
+      <description>Welcome to our new blog, Distill_Demo_2.19. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://adenb0220.github.io/Distill_Demo_2.19/posts/welcome</guid>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>First-post</title>
+      <dc:creator>Aden Bhagwat</dc:creator>
+      <link>https://adenb0220.github.io/Distill_Demo_2.19/posts/2025-02-19-first-post</link>
+      <description>First post. I have no idea what is going on.</description>
+      <guid>https://adenb0220.github.io/Distill_Demo_2.19/posts/2025-02-19-first-post</guid>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
