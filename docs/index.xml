@@ -9,6 +9,15 @@
     <generator>Distill</generator>
     <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
     <item>
+      <title>First-post</title>
+      <dc:creator>Aden Bhagwat</dc:creator>
+      <link>https://adenb0220.github.io/Distill_Demo_2.19/posts/2025-02-19-first-post</link>
+      <description>First post.</description>
+      <guid>https://adenb0220.github.io/Distill_Demo_2.19/posts/2025-02-19-first-post</guid>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://adenb0220.github.io/Distill_Demo_2.19/posts/2025-02-19-first-post/first-post_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
       <title>Welcome to Distill_Demo_2.19</title>
       <dc:creator>Aden Bhagwat</dc:creator>
       <link>https://adenb0220.github.io/Distill_Demo_2.19/posts/welcome</link>
@@ -18,13 +27,13 @@ reading what we have to say!</description>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>First-post</title>
+      <title>post2</title>
       <dc:creator>Aden Bhagwat</dc:creator>
-      <link>https://adenb0220.github.io/Distill_Demo_2.19/posts/2025-02-19-first-post</link>
-      <description>First post.</description>
-      <guid>https://adenb0220.github.io/Distill_Demo_2.19/posts/2025-02-19-first-post</guid>
+      <link>https://adenb0220.github.io/Distill_Demo_2.19/posts/2025-02-19-post2</link>
+      <description>A short description of the post.</description>
+      <guid>https://adenb0220.github.io/Distill_Demo_2.19/posts/2025-02-19-post2</guid>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-      <media:content url="https://adenb0220.github.io/Distill_Demo_2.19/posts/2025-02-19-first-post/first-post_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+      <media:content url="https://adenb0220.github.io/Distill_Demo_2.19/posts/2025-02-19-post2/post2_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
   </channel>
 </rss>
